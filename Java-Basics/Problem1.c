@@ -7,7 +7,7 @@ class Main {
        int c = sc.nextInt();
        int tax = sc.nextInt();
        int pf = sc.nextInt();
-       int total = a+b+c-tax-pf;
+       int total = a+b+c-tax-pf; 
        System.out.println("Final Salary : "+total);
     }
 }
