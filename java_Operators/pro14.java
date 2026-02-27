@@ -8,3 +8,4 @@ public class pro14 {
         System.out.println(c);
     }
 }
+
