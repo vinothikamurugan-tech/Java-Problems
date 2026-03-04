@@ -87,3 +87,4 @@ public class prob7 {
         sc.close();
     }
 }
+
