@@ -5,7 +5,7 @@ public class pro2 {
         int r = sc.nextInt();
         int c = sc.nextInt();
         System.out.println("Seating Arrangement : ");
-        for(int i = 1 ; i<=r ; i++){
+        for(int i = 1 ; i<=r ; i++){ 
             for(int j = 0 ; j<=c ; j++){
                 if(j==0){
                     System.out.print("Row "+i+" : ");
