@@ -8,7 +8,7 @@ public class pro4 {
         System.out.print("Student ");
         for(int i = 1; i<=sub ;i++){
             System.out.print("Sub"+i+" ");
-        }
+        } 
         System.out.print("Average\n");
         double sum = 0.0;
         for(int i = 1; i<=student ; i++){
