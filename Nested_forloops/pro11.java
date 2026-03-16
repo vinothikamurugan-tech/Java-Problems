@@ -16,6 +16,6 @@ public class pro11 {
             }
             System.out.println();
         }
-        sc.close();
+        sc.close(); 
     }
 }
