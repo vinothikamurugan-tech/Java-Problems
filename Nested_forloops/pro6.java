@@ -5,7 +5,7 @@ public class pro6 {
         int r = sc.nextInt();
         int c = sc.nextInt();
         int a[][] = new int[r][c];
-        int b[][] = new int[r][c];
+        int b[][] = new int[r][c]; 
         System.out.println("Matrix A:");
         for(int i = 0; i<r ; i++){
             for(int j = 0 ; j<c ; j++){
