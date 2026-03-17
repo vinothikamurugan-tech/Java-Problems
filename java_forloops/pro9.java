@@ -26,7 +26,7 @@ public class pro9 {
                 intensity = "Moderate";
             }else if(type.equals("Walking")){
                 calories = 4*duration;
-                intensity = "Low";
+                intensity = "Low"; 
             }
 
             totalcalo = totalcalo+calories;
