@@ -7,7 +7,7 @@ public class pro9 {
         int lock = sc.nextInt();
         if(username==password && lock!=username){
             System.out.println("Success");
-        }else{
+        }else{ 
             System.out.println("Failed");
         }
     }
