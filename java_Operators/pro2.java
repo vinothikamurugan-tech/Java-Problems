@@ -5,7 +5,7 @@ public class pro2 {
         int balance = sc.nextInt();
         int amount = sc.nextInt();
         int limit = sc.nextInt();
-        if(amount<=balance && amount<=limit){
+        if(amount<=balance && amount<=limit){ 
             System.out.println("Approved");
         }else{
             System.out.println("Declined");
