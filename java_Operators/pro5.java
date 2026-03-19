@@ -9,5 +9,5 @@ public class pro5 {
         }else{
             System.out.println("Rejected");
         }
-    }
+    } 
 }
