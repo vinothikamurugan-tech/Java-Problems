@@ -29,7 +29,7 @@ public class pro6 {
                 System.out.println();
                 transaction++;
             }
-        }
+        } 
         System.out.println("Total Transactions : "+n);
         System.out.println("Successful Withdrawals : "+success);
         System.out.println("Failed Withdrawals : "+fail);
