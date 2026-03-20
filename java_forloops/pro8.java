@@ -15,7 +15,7 @@ public class pro8 {
             if(quantity==1){
                 dis = 0;
             }else if(quantity>=2 && quantity<=4){
-                dis = 10;
+                dis = 10; 
             }else if(quantity>=5 && quantity<=9){
                 dis = 15;
             }else if(quantity>=10){
