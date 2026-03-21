@@ -7,7 +7,7 @@ public class pro10 {
         if(unit>500 || voltage==1){
             System.out.println("Alert");
         }else{
-            System.out.println("Normal");
+            System.out.println("Normal"); 
         }
     }
 }
