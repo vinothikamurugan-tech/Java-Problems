@@ -18,7 +18,7 @@ public class prob6 {
             set = 3;
         }
         double baseprice = 0;
-        if(boclass.equals("Economy")){
+        if(boclass.equals("Economy")){ 
             if(set==1){
                 baseprice = 200;
             }
