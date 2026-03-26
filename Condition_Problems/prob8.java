@@ -29,7 +29,7 @@ public class prob8 {
             per = -15;
         }else if(age>=26 && age<=30){
             per = -20;
-        }else if(age>=31){
+        }else if(age>=31){ 
             per = -25;
         }
 
