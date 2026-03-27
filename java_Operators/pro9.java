@@ -9,6 +9,6 @@ public class pro9 {
             System.out.println("Success");
         }else{ 
             System.out.println("Failed");
-        }
+        } 
     }
 }
