@@ -11,7 +11,7 @@ public class pro7 {
         }
         for(int i = n/2 ; i>=1 ; i--){
             for(int j = i*2-1 ; j>=1 ;j--){
-                System.out.print("*");
+                System.out.print("*"); 
             }
             System.out.println();
         }
