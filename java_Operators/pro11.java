@@ -6,7 +6,7 @@ public class pro11 {
         int level = sc.nextInt();
         int sum = 1;
         for(int i = 1 ; i<=level ; i++){
-             sum = sum*2;
+             sum = sum*2; 
         }
         System.out.println("Capacity : "+sum*base);
     }
