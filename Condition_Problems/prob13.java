@@ -8,7 +8,7 @@ public class prob13 {
         String residency = sc.next();
 
         double tuition = 0;
-        if(protype.equals("Undergraduate")){
+        if(protype.equals("Undergraduate")){ 
             tuition = 350;
         }else if(protype.equals("Graduate")){
             tuition = 550;
