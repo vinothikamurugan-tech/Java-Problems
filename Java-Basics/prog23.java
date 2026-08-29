@@ -5,7 +5,7 @@ public class prog23 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        int d = sc.nextInt();
+        int d = sc.nextInt(); 
         int e = sc.nextInt();
         int f = sc.nextInt();
         int last = (a*b)+c+d-e-f;
