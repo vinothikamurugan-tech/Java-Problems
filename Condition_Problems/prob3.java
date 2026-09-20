@@ -6,7 +6,7 @@ public class prob3 {
         String status = sc.next();
         String condition = sc.next();
         String tier = sc.next();
-        int group = 0;
+        int group = 0; 
         if(age>=18 && age<=30){
             group = 1;
         }else if(age>=31 && age<=50){
