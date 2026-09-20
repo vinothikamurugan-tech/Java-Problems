@@ -14,7 +14,7 @@ public class prob12 {
             baseprem = 800;
         }else if(level.equals("Comprehensive")){
             baseprem = 1500;
-        }
+        } 
 
         double agefact = 0;
         if(age>=16 && age<=21){
