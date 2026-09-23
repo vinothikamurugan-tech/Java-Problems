@@ -22,7 +22,7 @@ public class pro6 {
                 b[i][j] = sc.nextInt();
                 System.out.print(b[i][j]+" ");
             }
-            System.out.println();
+            System.out.println(); 
         }
         System.out.println();
 
